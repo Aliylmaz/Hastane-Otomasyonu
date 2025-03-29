@@ -120,9 +120,7 @@ mvn install
 
 ---
 
-## 📸 Ekran Görüntüleri
 
-> 📷 Buraya uygulamanın login, kayıt ve randevu arayüzlerinden ekran görüntüleri eklenebilir.
 
 ---
 
@@ -140,5 +138,4 @@ mvn install
 Bu proje MIT Lisansı ile yayınlanmıştır. Daha fazla bilgi için `LICENSE` dosyasına göz atabilirsiniz.
 
 ---
-```
 
