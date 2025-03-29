@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 public class HospitalDB {
 
-    private static final String connectionString = "jdbc:mysql://127.0.0.1:3306/hospital_db?user=root&password=m0rfeus123";
+    private static final String connectionString = "Your-db-url";
     private static Connection conn;
     public static User currentUser = null;
 
