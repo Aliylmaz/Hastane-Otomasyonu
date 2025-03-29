@@ -1,10 +1,4 @@
-Elbette! GitHub için etkileyici ve profesyonel bir `README.md` dosyası hazırlamam için önce proje içeriğini incelemem gerekiyor. Zip dosyasının içinde hangi dilde yazılmış bir proje var (örneğin C#, Java, Python)? Ana yapısını hızlıca kontrol edip sana ona uygun bir `README.md` formatı sunacağım.
 
-Şimdi projenin içeriğine göz atıyorum…
-
-Projen Java ile yazılmış ve `Maven` yapısını kullanan bir masaüstü uygulaması gibi görünüyor. Ana dosyalar `src/main/java/com/mycompany/hastaneotomasyonu/` klasöründe yer alıyor ve içinde kullanıcı arayüzü (örneğin `LoginFrm.java`, `RegisterFrm.java`, `AdminFrm.java`), veritabanı bağlantısı (`HospitalDB.java`) ve ana sınıflar (`Main.java`, `HastaneOtomasyonu.java`) gibi bölümler var.
-
-Aşağıda GitHub için profesyonel bir `README.md` şablonu oluşturdum:
 
 ---
 
